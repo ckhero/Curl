@@ -1,4 +1,4 @@
-./vendor
-test.log
-test.php
-test.html
+/vendor
+/test.log
+/test.php
+/test.html
