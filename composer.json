@@ -1,0 +1,16 @@
+{
+    "name": "ckhero/curl",
+    "description": "curl",
+    "authors": [
+        {
+            "name": "ckhero",
+            "email": "18801613198@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Curl\\": "src/"
+        }
+    }
+}
